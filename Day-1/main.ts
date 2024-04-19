@@ -22,8 +22,8 @@ let lowercase: string = "MOHSIN";
 console.log(`Person Name in lowercase : ${lowercase.toLowerCase()}`);
 
 
-let uppercase :string="muhammad faraz";
+let uppercase: string = "muhammad faraz";
 console.log(`Person Name in uppercase : ${uppercase.toUpperCase()}`);
 
-let titlecase:string="rizwan aHMED";
-console.log( "Person Name in titlecase :", titlecase.charAt(0).toUpperCase()+titlecase.slice(1).toLowerCase());
+let titlecase: string = "rizwan aHMED";
+console.log("Person Name in titlecase :", titlecase.charAt(0).toUpperCase() + titlecase.slice(1).toLowerCase());
