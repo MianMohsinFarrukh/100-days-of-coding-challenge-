@@ -24,7 +24,7 @@ console.log(message);
 
 
 const personname: string = ' \n \t  "Muhammad Rizwan"  \t \n ';
-console.log(personname);
+console.log(personname); // Shows the name with whitespace
 
 const variable: string = personname.trim();
-console.log(variable);
+console.log(variable);   // Shows the name without whitespace
