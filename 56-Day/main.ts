@@ -9,3 +9,6 @@
 
 // Star GitHub Repository:
 // https://github.com/AsharibAli/100-days-of-code/tree/main/day-56
+
+
+console.log(`\n`)
