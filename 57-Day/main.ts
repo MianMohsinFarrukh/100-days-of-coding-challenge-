@@ -9,9 +9,7 @@ function first (){function sum(num1: number, num2: number):number{
 console.log(sum(5, 15));};
 first();
 
-first();
-first();
-first();
+
 
 
 
