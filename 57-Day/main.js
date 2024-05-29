@@ -8,6 +8,3 @@ function first() {
 }
 ;
 first();
-first();
-first();
-first();
