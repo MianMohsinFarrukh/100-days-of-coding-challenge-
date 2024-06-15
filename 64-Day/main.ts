@@ -1,3 +1,1 @@
-console.log(`\n`);
-console.log(`hello world`);
-console.log(`\n`);
+console.log(`64`);
