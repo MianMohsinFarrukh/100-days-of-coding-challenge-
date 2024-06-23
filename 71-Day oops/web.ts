@@ -36,4 +36,17 @@ class ProductExAccessors {
 
 const productEx = new ProductExAccessors(1, "Mohsin")
 
-console.log (productEx.getProductInfo());
+console.log(productEx.getProductInfo());
+// Default price: ID: 1, Name: Mohsin, Price: $0
+
+
+// Use the 'setter' to update the price :
+productEx.price = 20.0;
+
+
+console.log(productEx.getProductInfo()); 
+// Updated price: ID: 1, Name: Mohsin, Price: $20
+
+
+// Attempting to set a negative price triggers the setter logic
+productEx.price = -5; // Price cannot be negative.
