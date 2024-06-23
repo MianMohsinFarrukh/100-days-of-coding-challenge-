@@ -1,4 +1,7 @@
 "use strict";
+/***************************
+ * CLASS ACCESS MODIFIERS: *
+ ***************************/
 class Parent {
     constructor(name) {
         this.name = name;
